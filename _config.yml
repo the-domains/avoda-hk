@@ -1,0 +1,28 @@
+name: Avoda.HK
+favicon: null
+layout_spectrum: 0.38912809267640114
+typography_spectrum: 0.38093029893934727
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6671456058975309
+  lightness: 0.842689789365977
+  saturation: 0.5120895304717124
+  rhythmicContrast: 0.5634515604469925
+purpose: []
