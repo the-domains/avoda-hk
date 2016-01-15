@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Genuinely Professional Chinese Payment Consultant]]></title>
         <description><![CDATA[Genuinely Professional Chinese Payment Consultant]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/avoda-hk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 12:28:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jan 2016 12:28:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/avoda-hk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The first page]]></title>
             <description><![CDATA[<article><h1>The first page</h1><p>Testing - Avoda's first post online</p></article>]]></description>
-            <link>undefinedthe-first-page/index.html</link>
+            <link>https://thegrid.ai/avoda-hk/the-first-page/index.html</link>
             <guid isPermaLink="false">2aecbb79-3282-4998-8b21-8421f75250e3</guid>
-            <pubDate>Fri, 15 Jan 2016 12:28:07 GMT</pubDate>
+            <pubDate>Fri, 15 Jan 2016 12:28:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
