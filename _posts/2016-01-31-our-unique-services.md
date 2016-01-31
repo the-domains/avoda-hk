@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T09:49:50.005Z'
-dateModified: '2016-01-31T09:49:44.446Z'
+datePublished: '2016-01-31T10:17:20.146Z'
+dateModified: '2016-01-31T10:04:55.355Z'
 title: Our unique services
 author: []
 sourcePath: _posts/2016-01-31-our-unique-services.md
@@ -22,7 +22,10 @@ url: our-unique-services/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3804708-5f3d-4044-8b1c-e7cf646b06cb.JPG)
+
 * Online banking
 * Online processing of UnionPay cards - debit and credit
 * Mobile processing of UnionPay cards
 * Mainland Chinese ID / bank account verification
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c98c956f-f60f-45b5-8496-1c1145f45656.JPG)
