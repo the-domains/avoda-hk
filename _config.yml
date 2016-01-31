@@ -1,6 +1,6 @@
 name: Avoda.HK
 favicon: null
-layout_spectrum: 0.44777
+layout_spectrum: 0.40054
 typography_spectrum: 0.64796
 title: Genuinely Professional Chinese Payment Consultant
 cta:
@@ -22,7 +22,7 @@ color:
     - '#5b4d42'
     - '#fffff8'
     - '#be6e31'
-  brandStrength: 0.125
+  brandStrength: 1
   lightness: 0.8125
   saturation: 0.6875
   rhythmicContrast: 0.75
